@@ -1,0 +1,19 @@
+# springdoc + swagger3, https://springdoc.org/
+springdoc:
+  packagesToScan: api.controller, api.controller2
+  api-docs:
+    enabled: true   #默认为true开启
+    path: /api-docs
+    swagger-ui:
+      enabled: true
+      path: /swagger-ui.html
+  openapi:  # 这部分是我自定义的
+    title: api文档
+    description: 开发者-jinfeng.hu
+    version: 0.1
+    license:
+      name: Apache 2.0
+      url: http://springdoc.org
+    externalDocs:
+      description: Wiki Documentation
+      url: https://springshop.wiki.github.org/docs

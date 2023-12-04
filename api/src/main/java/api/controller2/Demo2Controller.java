@@ -1,4 +1,4 @@
-package api.controller;
+package api.controller2;
 
 import api.service.SayService;
 import io.swagger.v3.oas.annotations.tags.Tag;
@@ -12,9 +12,9 @@ import org.springframework.web.bind.annotation.RestController;
  * @author max.hu  @date 2023/12/04
  **/
 @RestController
-@RequestMapping("/api")
-@Tag(name = "api demo", description = "测试spring boot3 web")
-public class DemoController {
+@RequestMapping("/api/v2")
+@Tag(name = "api demo2", description = "v2 -- 测试spring boot3 web")
+public class Demo2Controller {
     @Autowired
     private SayService sayService;
 
