@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: sb3
+
+server:
+  port: 8080
+
+
+logging:
+  path: /Users/max/logs
+  config: classpath:logback-stdout.xml
+  level:
+    org.springframework.web.client: WARN
