@@ -1,7 +1,7 @@
 package api.auth;
 
 /**
- * @description: session操作
+ *  session操作
  * @author max.hu  @date 2021-11-12
  **/
 public interface SessionProvider {

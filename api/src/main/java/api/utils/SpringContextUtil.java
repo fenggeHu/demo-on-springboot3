@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 import java.util.Map;
 
 /**
- * @description: spring bean 操作类
+ *  spring bean 操作类
  * @author max.hu  @date 2021-11-12
  **/
 @Component

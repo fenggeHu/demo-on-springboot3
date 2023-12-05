@@ -1,7 +1,7 @@
 package api.request;
 
 /**
- * @description: header info key
+ *  header info key
  * @author max.hu  @date 2021-10-22
  **/
 public interface RequestConstants {

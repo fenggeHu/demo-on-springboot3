@@ -12,7 +12,7 @@ import org.springframework.web.servlet.ModelAndView;
 import java.util.Map;
 
 /**
- * @description: 验签
+ *  验签
  * @author max.hu  @date 2021-10-22
  **/
 @Slf4j

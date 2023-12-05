@@ -14,7 +14,7 @@ import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 
 /**
- * @description: 身份识别 - jwt - 需要子类实现验签算法
+ *  身份识别 - jwt - 需要子类实现验签算法
  * https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication
  * @author max.hu  @date 2021-11-02
  **/

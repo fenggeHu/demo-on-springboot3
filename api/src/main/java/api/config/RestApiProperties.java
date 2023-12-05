@@ -5,7 +5,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @description:
+ * 
  * @author max.hu  @date 2021-10-22
  **/
 @Data

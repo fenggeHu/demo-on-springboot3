@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 import java.io.Serializable;
 
 /**
- * @description: 用户基本信息
+ *  用户基本信息
  * @author max.hu  @date 2021-11-12
  **/
 @Data

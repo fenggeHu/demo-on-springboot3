@@ -1,7 +1,7 @@
 package api.request;
 
 /**
- * @description: 请求上下文
+ *  请求上下文
  * @author max.hu  @date 2021-10-22
  **/
 public class RequestContext {

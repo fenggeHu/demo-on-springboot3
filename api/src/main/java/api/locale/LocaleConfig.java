@@ -11,8 +11,7 @@ import org.springframework.web.servlet.i18n.LocaleChangeInterceptor;
 import java.util.Locale;
 
 /***
- * @description: 本地语言包
- * @author fengge.hu
+ *  本地语言包
  * @author max.hu  @date 2023/11/29
  */
 @Configuration

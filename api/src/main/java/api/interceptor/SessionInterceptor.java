@@ -13,7 +13,7 @@ import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;
 
 /**
- * @description: 请求头、一些通用信息
+ *  请求头、一些通用信息
  * @author max.hu  @date 2021-10-22
  **/
 @Slf4j

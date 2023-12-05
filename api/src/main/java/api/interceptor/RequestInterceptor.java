@@ -10,7 +10,7 @@ import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;
 
 /**
- * @description: 请求头、一些通用信息 - 一般放在拦截器的第一个
+ *  请求头、一些通用信息 - 一般放在拦截器的第一个
  * @author max.hu  @date 2021-10-22
  **/
 @Slf4j

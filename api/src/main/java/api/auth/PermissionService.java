@@ -7,7 +7,7 @@ import common.exception.ErrorCode;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @description: 权限/校验服务
+ *  权限/校验服务
  * @author max.hu  @date 2021-11-15
  **/
 @Slf4j

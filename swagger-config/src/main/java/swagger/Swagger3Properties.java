@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 
 /**
  * @author max.hu  @Date 2021-12-24
- * @Description: 补充new OpenAPI配置
+ *  补充new OpenAPI配置
  **/
 @Data
 @Configuration

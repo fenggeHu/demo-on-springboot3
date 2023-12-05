@@ -3,7 +3,7 @@ package common.exception;
 import lombok.Data;
 
 /**
- * @description: 业务异常
+ *  业务异常
  * @author max.hu  @date 2021-10-25
  **/
 @Data
