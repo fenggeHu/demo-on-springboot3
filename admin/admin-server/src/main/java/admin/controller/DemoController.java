@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.*;
 public class DemoController {
 
     @GetMapping("/get")
-    public String get(@RequestParam(name = "name") String name) {
+    public String get(String name) {
         return "hello: " + name;
     }
 

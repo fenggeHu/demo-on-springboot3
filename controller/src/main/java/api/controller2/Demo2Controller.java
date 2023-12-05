@@ -19,7 +19,7 @@ public class Demo2Controller {
     private SayService sayService;
 
     @GetMapping("/hello")
-    public String hello(@RequestParam("name") String name) {
+    public String hello(String name) {
         return sayService.hello(name);
     }
 }
