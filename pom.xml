@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
+        <module>common</module>
         <module>controller</module>
         <module>deploy</module>
         <module>swagger-config</module>

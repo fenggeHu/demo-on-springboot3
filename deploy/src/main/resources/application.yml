@@ -20,7 +20,7 @@ springdoc:
     path: /swagger-ui.html
   openapi:  # 我自定义的
     title: 我的xxx api文档
-    description: 开发者-jinfeng.hu
+    description: 开发者-max.hu
     version: 0.1
     license:
       name: Apache 2.0
