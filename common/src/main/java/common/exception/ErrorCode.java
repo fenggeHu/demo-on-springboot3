@@ -2,7 +2,7 @@ package common.exception;
 
 /**
  * @description: 分组分类错误码
- * @author Jinfeng.hu  @date 2021-10-25
+ * @author max.hu  @date 2021-10-25
  **/
 public enum ErrorCode {
     /**

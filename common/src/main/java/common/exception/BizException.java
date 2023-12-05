@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * @description: 业务异常
- * @author Jinfeng.hu  @date 2021-10-25
+ * @author max.hu  @date 2021-10-25
  **/
 @Data
 public class BizException extends RuntimeException {

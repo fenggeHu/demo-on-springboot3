@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * 简单的计算分页
- * @author Jinfeng.hu  @date 2021-11-01
+ * @author max.hu  @date 2021-11-01
  **/
 public class Pager implements Serializable {
     private static final long serialVersionUID = 1L;
