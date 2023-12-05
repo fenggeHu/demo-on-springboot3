@@ -5,25 +5,24 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>io.github.fenggehu</groupId>
-        <artifactId>main</artifactId>
+        <artifactId>user</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-
-    <artifactId>swagger-config</artifactId>
+    <artifactId>user-server</artifactId>
 
     <properties>
-        <maven.compiler.source>17</maven.compiler.source>
-        <maven.compiler.target>17</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <dependencies>
         <dependency>
-            <groupId>org.springdoc</groupId>
-            <artifactId>springdoc-openapi-ui</artifactId>
-            <scope>provided</scope>
+            <groupId>io.github.fenggehu</groupId>
+            <artifactId>user-client</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context-support</artifactId>
+        </dependency>
     </dependencies>
 
 </project>
