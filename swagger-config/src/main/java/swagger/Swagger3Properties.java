@@ -7,8 +7,8 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author max.hu  @Date 2021-12-24
  *  补充new OpenAPI配置
+ * @author max.hu  @Date 2021-12-24
  **/
 @Data
 @Configuration
